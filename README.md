@@ -28,4 +28,32 @@ This is a Payroll System developed using Java. It helps manage employee payrolls
 4. 🏗️ Use Maven to build the project:
    ```sh
    mvn clean install
+
+🔑 Login with administrator credentials.
+➕ Add employees to the system.
+💵 Process payroll by entering the necessary salary details.
+📜 Generate payroll reports.
+📂 Directory Structure
+perl
+Copy
+Edit
+###
+```sh
+Payroll-system-main/
+├── src/               # Source code
+├── build/             # Compiled files
+├── pom.xml            # Maven configuration file
+├── README.md          # Project documentation
+```sh
+
+🏗️ Development Guidelines
+Follow proper coding practices.
+Use Maven for dependency management.
+Ensure database configurations are correctly set.
+Maintain modular and clean code structure.
+📜 License
+This project is licensed under the MIT License.
+
+👥 Contributors
+Feel free to contribute! Fork, create a feature branch, and submit a pull request.
    
